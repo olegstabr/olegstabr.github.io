@@ -1,0 +1,54 @@
+	table {
+		border-spacing: 1px;
+		border: 1px solid black;
+	}
+ 	td {
+		width: 25px; 
+		height: 25px; 
+   }
+   #div1 {
+		margin-left: 380px;
+		margin-right: 20px;
+		margin-top: -720px;
+		padding-left: 12px;
+		padding-right: 5px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border-width: 7px;
+		border-style: double;
+		width: 35%;
+		text-align: justify;
+   }
+    #div2 {
+		margin-left: 1000px;
+		margin-right: 20px;
+		margin-top: -300px;
+		padding-left: 12px;
+		padding-right: 5px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		width: 20%;
+		text-align: justify;
+   }
+	#rgbDiv {
+		margin-left: 380px;
+		margin-right: 20px;
+		margin-top: -250px;
+		padding-left: 12px;
+		padding-right: 5px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		width: 22%;
+		border-width: 1px;
+		border-style: solid;
+		text-align: justify;
+   }
+   #showRgb {
+		margin-left: 760px;
+		margin-top: -150px;
+		margin-right: 50px;
+		width: 120px;
+		height: 120px;
+		border-width: 1px;
+		border-style: solid;
+   }
